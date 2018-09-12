@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family:Andale Mono, monospace;
+}
+.top {
+    overflow: hidden;
+    background-color: #dfe3ee;
+}
+.top a  {
+  float: left;
+display:block;
+color: black;
+text-align:center;
+padding: 15px 15px;
+text-decoration: none;
+font-size: 20px;
+}
+.top a:hover {
+  background-color: lightgrey;
+  color: darkred;
+}
+.active {
+  background-color: #44E6F2;
+  color: Ivory;
+}
+.top input[type=text] {
+  float: right;
+  padding:4px;
+  margin-top: 10px;
+  margin-right: 16px;
+  border: none;
+  font-size: 18px;
+  width:250px;
+  border-style:solid;
+}
+#sub1 {
+    color:black;
+    font-size:12px;
+    font-family:"Arial Black", Gadget, sans-serif;
+}
+#sub2 {
+    color:black;
+    font-size:12px;
+    font-family:"Arial Black", Gadget, sans-serif;
+}
