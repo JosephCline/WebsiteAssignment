@@ -5,5 +5,3 @@
 		    <h2 id="heading2-2">CSS Elements:</h2>
 		    <h2 id="heading2-3">Javascript Elements:</h2>
 		    <hr />
-	</body>
-</html>
